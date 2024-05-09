@@ -75,6 +75,6 @@ public int dayOfYear(String month, int day) {
 ```
 
 ## Practice
-Create two arrays: `players` and `scores`. `players` stores a list of 8 player names, `scores` stores the score of the players with the corresponding index.
+Create two arrays: `players` and `scores`. `players` stores a list of 5 player names, `scores` stores the score of the players with the corresponding index.
 1. Output the player names and corresponding scores in a table
 2. Write a program that finds and outputs the name and score of the player with the highest score
